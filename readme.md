@@ -2,6 +2,11 @@
 
 이 프로젝트는 Three.js(proj1)와 WebGL(proj2, proj3)를 이용한 컴퓨터그래픽스 실습입니다.
 
+## 사용기술
+- WebGL
+- Three.js
+- Express.js
+
 ## Proj1
 
 - 3D공간에 배치된 사물을 카메라로 촬영합니다.
@@ -9,8 +14,6 @@
 - 사물에 움직임을 줄 수 있습니다.
 - [소스코드](https://github.com/hyeongcheolkim/ComputerGraphicsPractice/blob/main/resource/proj1/proj1/proj1.js)
   ![proj1](https://github.com/user-attachments/assets/8cbb23a1-329e-4b4b-86f7-a6ed1ed59631)
-
-
 
 ## Proj2
 
