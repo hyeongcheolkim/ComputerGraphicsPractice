@@ -8,6 +8,10 @@ const port = 3000;
 
 app.use('/resource', express.static(path.join(__dirname, 'resource')));
 
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'resource', 'index.html'));
+});
+
 app.get('/proj1', (req, res) => {
     res.sendFile(path.join(__dirname, 'resource', 'proj1', 'proj1', 'proj1.html'));
 });
