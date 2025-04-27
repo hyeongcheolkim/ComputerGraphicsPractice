@@ -1,4 +1,4 @@
-# 컴퓨터그래픽스
+# Computer Graphics Practice
 이 프로젝트는 Three.js(proj1)와 WebGL(proj2, proj3)를 이용한 컴퓨터그래픽스 실습입니다.
 총 3가지의 프로젝트로 구성되어있습니다.
 
