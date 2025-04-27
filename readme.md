@@ -1,4 +1,4 @@
-![proj1](https://github.com/user-attachments/assets/13949681-9875-452f-8d36-9b2a6ddf3eb1)# 컴퓨터그래픽스
+# 컴퓨터그래픽스
 
 이 프로젝트는 Three.js(proj1)와 WebGL(proj2, proj3)를 이용한 컴퓨터그래픽스 실습입니다.
 
