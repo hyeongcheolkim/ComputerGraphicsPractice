@@ -1,4 +1,4 @@
-# 컴퓨터그래픽스
+![proj1](https://github.com/user-attachments/assets/13949681-9875-452f-8d36-9b2a6ddf3eb1)# 컴퓨터그래픽스
 
 이 프로젝트는 Three.js(proj1)와 WebGL(proj2, proj3)를 이용한 컴퓨터그래픽스 실습입니다.
 
@@ -8,6 +8,9 @@
 - 빛과 사물의 상호작용을 구현합니다.
 - 사물에 움직임을 줄 수 있습니다.
 - [소스코드](https://github.com/hyeongcheolkim/ComputerGraphicsPractice/blob/main/resource/proj1/proj1/proj1.js)
+  ![proj1](https://github.com/user-attachments/assets/8cbb23a1-329e-4b4b-86f7-a6ed1ed59631)
+
+
 
 ## Proj2
 
@@ -15,6 +18,7 @@
 - 컴파일된 쉐이더를 프로그램에 링크합니다.
 - rotate를 직접 구현합니다.
 - [소스코드](https://github.com/hyeongcheolkim/ComputerGraphicsPractice/blob/main/resource/proj2/proj2.js)
+![proj2](https://github.com/user-attachments/assets/b7242e5d-0269-4915-a9da-f15664657009)
 
 ## Proj3
 
@@ -25,6 +29,7 @@
 - scaling을 이용해 화면을 확대 및 축소할 수 있습니다.
 - bullet을 구현합니다. bullet은 발사되어 중력가속도에 이끌려 지면에 충돌합니다. 지면에 충돌시 사라집니다.
 - [소스코드](https://github.com/hyeongcheolkim/ComputerGraphicsPractice/blob/main/resource/proj3/src/proj3.js)
+![proj3](https://github.com/user-attachments/assets/409c796d-0dc3-4101-893a-37aab5dbe44d)
 
 ## 빌드 및 실행 방법
 
